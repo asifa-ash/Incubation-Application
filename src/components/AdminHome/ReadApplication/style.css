@@ -1,0 +1,14 @@
+.this {
+    color: rgb(255, 255, 255);
+    text-align: left;
+   
+   
+
+
+}
+.open_holder{
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+
